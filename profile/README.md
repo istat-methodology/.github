@@ -1,2 +1,2 @@
 # Istat Methodology Division
-This repository contains open-source software implemented by Istat's Methodology Division.
+This page contains open-source projects and software developed by Istat's Methodology Division.
